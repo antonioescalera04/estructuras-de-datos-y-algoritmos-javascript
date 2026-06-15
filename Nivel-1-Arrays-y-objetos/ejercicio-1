@@ -7,5 +7,7 @@ const usuarios = [
   { nombre: "Pedro", activo: true }
 ];
 
+
+//por convencion se usa usuarios -> usuario;
 const usuariosActivos = usuarios.filter(usuario => usuario.activo);
 console.log(usuariosActivos)
