@@ -1,5 +1,5 @@
 //Ejercicio 1: Filtrar usuarios activos
-//
+//commit5
 
 const usuarios = [
   { nombre: "Juan", activo: true },
