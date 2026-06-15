@@ -1,5 +1,5 @@
 //Ejercicio 1: Filtrar usuarios activos
-
+//
 
 const usuarios = [
   { nombre: "Juan", activo: true },
