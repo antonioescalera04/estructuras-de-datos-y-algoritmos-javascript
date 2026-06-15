@@ -1,0 +1,8 @@
+//Ejercicio 1: Filtrar usuarios activos
+
+
+const usuarios = [
+  { nombre: "Juan", activo: true },
+  { nombre: "Ana", activo: false },
+  { nombre: "Pedro", activo: true }
+];
