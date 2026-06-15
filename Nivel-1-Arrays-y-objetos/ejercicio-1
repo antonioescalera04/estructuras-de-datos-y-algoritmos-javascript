@@ -1,8 +1,11 @@
 //Ejercicio 1: Filtrar usuarios activos
-//commit5
+//Devuelve un nuevo array únicamente con los usuarios activos.
 
 const usuarios = [
   { nombre: "Juan", activo: true },
   { nombre: "Ana", activo: false },
   { nombre: "Pedro", activo: true }
 ];
+
+const usuariosActivos = usuarios.filter(usuario => usuario.activo);
+console.log(usuariosActivos)
